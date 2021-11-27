@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MohamedAshrafIbraheem97/orderSummaryComponentChallenge#the-challenge)
-- Live Site URL: [Add live site URL here](https://mohamedashrafibraheem97.github.io/orderSummaryComponentChallenge/)
+- Solution URL: [Click Here](https://github.com/MohamedAshrafIbraheem97/orderSummaryComponentChallenge#the-challenge)
+- Live Site URL: [Click Here](https://mohamedashrafibraheem97.github.io/orderSummaryComponentChallenge/)
 
 ## My process
 
